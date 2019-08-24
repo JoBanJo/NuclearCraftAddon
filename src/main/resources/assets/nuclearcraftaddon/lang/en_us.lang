@@ -1,0 +1,52 @@
+//Items 
+item.nuclearcraftaddon.corn_seeds.name=Corn Seeds
+item.nuclearcraftaddon.beer_can.name=Beer Can
+item.nuclearcraftaddon.dragons_breath.name=Dragons Breath
+item.nuclearcraftaddon.popcorn.name=Popcorn
+item.nuclearcraftaddon.test_item.name=Test Item
+item.nuclearcraftaddon.uranium_infused_beer.name=Uranium Infused Beer
+item.nuclearcraftaddon.uranium_ingot.name=Uranium Ingot
+item.nuclearcraftaddon.dragon_temp.name=Dragon Temp
+item.nuclearcraftaddon.nuclear_bread.name=Nuclear Bread
+item.nuclearcraftaddon.diamond_ingot.name=Diamond Ingot
+
+item.nuclearcraftaddon.helmet_hazmat.name=Hazmate Helmat
+item.nuclearcraftaddon.chestplate_hazmat.name=Hazmate Chestplate
+item.nuclearcraftaddon.leggings_hazmat.name=Hazmate Leggins
+item.nuclearcraftaddon.boots_hazmat.name=Hazmate Boots
+
+ 
+//Blocks
+
+tile.nuclearcraftaddon.fake_diamond.name=Fake Diamond
+tile.nuclearcraftaddon.reactor_door.name=Reactor Door
+tile.nuclearcraftaddon.old_concrete.name=Old Concrete
+tile.nuclearcraftaddon.moissanite_ore.name=Moissanite Ore
+tile.nuclearcraftaddon.brains_brick.name=Splattered Brains Brick
+tile.nuclearcraftaddon.mixed_brick.name=Mixed Bricks 
+
+tile.log_gumtree.name=Gum Tree Log 
+
+tile.nuclearcraftaddon.tritium_light_frame.name=Tritium Light Frame
+tile.nuclearcraftaddon.tritium_lamp_r.name=Tritium Light Red
+tile.nuclearcraftaddon.tritium_lamp_g.name=Tritium Light Green
+tile.nuclearcraftaddon.tritium_lamp_b.name=Tritium Light Blue
+tile.nuclearcraftaddon.tritium_lamp_y.name=Tritium Light Yellow
+tile.nuclearcraftaddon.tritium_lamp_o.name=Tritium Light Orange
+tile.nuclearcraftaddon.tritium_lamp_p.name=Tritium Light Purple
+
+//Fluids
+fluid.molten_silicon=Molten Silicon
+
+//Tile Entity 
+tile.camp_stove_idle.name=Camp Stove 
+
+
+
+//Tool Tip
+info.corn_seeds=§1test
+info.uranium_infused_beer=§9Side effects may include §4Blindness §9and §4Nausea
+info.beer_can=§1Test
+
+//Creative Tabs
+itemGroup.NC_Addon_Tab=NuclearCraftAddon

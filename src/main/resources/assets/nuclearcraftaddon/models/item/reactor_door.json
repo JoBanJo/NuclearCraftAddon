@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "nuclearcraftaddon:items/reactor_door_item"
+    }
+}

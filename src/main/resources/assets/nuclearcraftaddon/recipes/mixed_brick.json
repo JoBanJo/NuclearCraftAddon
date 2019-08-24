@@ -1,0 +1,26 @@
+{ 
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AB",
+    "BA"  ],
+  "key": {
+    "A": [
+      {
+        "item": "minecraft:clay_ball"
+        
+      }
+      
+    ],
+"B": [
+      {
+        "item": "minecraft:brick_block"
+        
+      }
+      
+    ]
+  },
+  "result": {
+    "item": "nuclearcraftaddon:mixed_brick",
+    "count": 4
+  }
+}
